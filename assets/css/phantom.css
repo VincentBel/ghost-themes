@@ -413,6 +413,14 @@ header .share a {
 	position: relative;
 	font-size: 25px;
 }
+code, tt {
+	padding: 1px 3px;
+	font-family: Inconsolata, monospace, sans-serif;
+	font-size: 0.85em;
+	white-space: pre-wrap;
+	border-radius: 2px;
+	background-color: rgba(0,0,0,0.04);
+}
 @media (max-width: 992px) {
 	.container, .pagination {
 		width:auto;
