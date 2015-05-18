@@ -258,8 +258,8 @@ article p > img, article a > img {
 	margin:0 auto;
 }
 .article-image {
-	width:940px;
-	margin:80px -220px;
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
 article h1, article h2, article h3 {
 	font-weight:300;
