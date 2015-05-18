@@ -388,7 +388,12 @@ footer p {
 	border-top:2px solid #f2f3f4;
 }
 header .share a {
+	color:#7f8c8d;
 	border:none;
+}
+header .share a:hover{
+	color: #2e9fff;
+	text-decoration: none;
 }
 .sample:before, .excerpt article h1, .excerpt article h2, .excerpt article h3 {
 	display:none;
